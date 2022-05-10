@@ -6,4 +6,4 @@
 
 -I'm trying to learn coding so I can't collab right now but maybe later
 
-My linkedtree is https://linktr.ee/kallenpuckett
+-My linkedtree is https://linktr.ee/kallenpuckett
