@@ -1,0 +1,11 @@
+Hello_There = True
+while its_raining:
+    print("General Kenobi")
+    answer = input("Or is it? (y=yes, n=no) ")
+    if answer == 'y':
+        print("I've been expecting you")
+    elif answer == 'n':
+    Hello_there = False
+    else:
+        print("Enter y or n next time.")
+print("What?")
